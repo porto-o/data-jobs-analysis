@@ -1,0 +1,416 @@
+,work_year,experience_level,employment_type,job_title,salary,employee_residence,remote_ratio,company_location,company_size
+84,2024,Senior,FT,Research Engineer,485000,US,In person,US,M
+174,2024,Senior,FT,Data Science Manager,314100,US,In person,US,M
+182,2024,Intermediate,FT,Data Engineer,300000,US,In person,US,M
+188,2024,Senior,FT,Machine Learning Engineer,355000,US,In person,US,M
+210,2024,Senior,FT,Data Architect,363000,US,In person,US,M
+232,2024,Senior,FT,Machine Learning Engineer,324000,US,In person,US,M
+260,2024,Senior,FT,Research Scientist,303050,US,In person,US,M
+284,2024,Executive,FT,Data Science,340000,US,In person,US,M
+409,2024,Senior,FT,Applied Scientist,309400,US,In person,US,L
+439,2024,Senior,FT,Research Engineer,306000,US,In person,US,M
+446,2024,Senior,FT,Applied Scientist,315000,US,Fully remote,US,M
+588,2024,Executive,FT,Data Science,300000,US,Fully remote,US,M
+658,2024,Senior,FT,Machine Learning Engineer,309000,US,In person,US,M
+764,2024,Senior,FT,Research Scientist,300000,CA,Fully remote,CA,M
+785,2024,Executive,FT,Machine Learning Engineer,408500,US,In person,US,M
+815,2024,Senior,FT,Data Engineer,300000,US,In person,US,M
+892,2024,Intermediate,FT,Data Product Owner,321830,US,In person,US,M
+956,2024,Executive,FT,Data Engineer,312287,US,In person,US,M
+1042,2024,Senior,FT,Machine Learning Engineer,550000,US,In person,US,M
+1043,2024,Senior,FT,Machine Learning Engineer,310000,US,In person,US,M
+1046,2024,Senior,FT,Machine Learning Engineer,550000,US,In person,US,M
+1047,2024,Senior,FT,Machine Learning Engineer,310000,US,In person,US,M
+1084,2024,Senior,FT,Machine Learning Infrastructure Engineer,300000,US,In person,US,M
+1102,2024,Senior,FT,Machine Learning Engineer,324000,US,In person,US,M
+1116,2024,Senior,FT,Machine Learning Engineer,309000,US,In person,US,M
+1119,2024,Senior,FT,Data Scientist,323295,CH,Hybrid,CH,L
+1126,2024,Senior,FT,Research Scientist,337300,US,In person,US,M
+1167,2024,Executive,FT,Business Intelligence,320000,US,In person,US,M
+1209,2024,Senior,FT,Data Architect,400000,US,Fully remote,US,M
+1259,2024,Senior,FT,Research Scientist,337300,US,In person,US,M
+1285,2024,Executive,FT,Data Science,300000,US,Fully remote,US,M
+1299,2024,Intermediate,FT,Machine Learning Scientist,720000,US,In person,US,M
+1303,2024,Senior,FT,Research Scientist,321000,US,In person,US,M
+1317,2024,Executive,FT,Machine Learning Engineer,408500,US,In person,US,M
+1344,2024,Senior,FT,AI Architect,449000,US,In person,US,M
+1346,2024,Senior,FT,Data Scientist,359170,US,In person,US,M
+1386,2024,Senior,FT,Machine Learning Engineer,331640,US,In person,US,M
+1414,2024,Senior,FT,Data Scientist,322000,US,In person,US,M
+1448,2024,Senior,FT,Data Science,331292,US,In person,US,M
+1458,2024,Senior,FT,Data Scientist,720000,US,Fully remote,US,M
+1482,2024,Senior,FT,Data Architect,363000,US,In person,US,M
+1484,2024,Senior,FT,Research Scientist,345000,US,In person,US,M
+1506,2024,Intermediate,FT,Research Engineer,440000,US,In person,US,M
+1555,2024,Senior,FT,Research Engineer,339250,US,In person,US,M
+1634,2024,Intermediate,FT,Data Science Manager,328000,US,In person,US,M
+1660,2024,Senior,FT,Data Engineer,304750,US,In person,US,M
+1678,2024,Senior,FT,Data Engineer,300000,US,In person,US,M
+1781,2024,Senior,FT,Research Scientist,600000,US,In person,US,M
+1783,2024,Senior,FT,Prompt Engineer,600000,US,In person,US,M
+1791,2024,Senior,FT,Research Scientist,500000,US,Fully remote,US,M
+1821,2024,Executive,FT,Data Engineer,334075,CA,In person,CA,M
+1847,2024,Senior,FT,Research Scientist,333500,US,In person,US,M
+1867,2024,Senior,FT,Machine Learning Engineer,333500,US,In person,US,M
+1903,2024,Senior,FT,Analytics Engineer,345400,US,In person,US,M
+1942,2024,Intermediate,FT,Research Scientist,300000,US,In person,US,M
+1960,2024,Intermediate,FT,AI Architect,800000,CA,Fully remote,CA,M
+2000,2024,Senior,FT,Research Scientist,337300,US,In person,US,M
+2042,2024,Junior,FT,Research Analyst,300000,US,In person,US,M
+2046,2024,Junior,FT,Research Analyst,300000,US,In person,US,M
+2052,2024,Senior,FT,Machine Learning Engineer,324000,US,In person,US,M
+2056,2024,Junior,FT,Research Analyst,300000,US,Fully remote,US,M
+2084,2024,Executive,FT,Data Science,300000,US,Fully remote,US,M
+2106,2024,Intermediate,FT,Research Scientist,359400,US,Fully remote,US,M
+2110,2024,Senior,FT,Data Science,324100,US,In person,US,L
+2173,2024,Senior,FT,Machine Learning Engineer,309000,US,In person,US,M
+2175,2024,Senior,FT,Research Engineer,333500,US,In person,US,M
+2185,2024,Senior,FT,Machine Learning Engineer,324000,US,In person,US,M
+2278,2024,Senior,FT,Data Engineer,331640,US,In person,US,M
+2325,2024,Senior,FT,Machine Learning Engineer,340000,US,In person,US,M
+2336,2024,Intermediate,FT,Data Infrastructure Engineer,385000,US,In person,US,M
+2465,2024,Intermediate,FT,Research Engineer,440000,US,In person,US,M
+2576,2024,Senior,FT,Research Scientist,303050,US,In person,US,M
+2588,2024,Senior,FT,Research Engineer,600000,US,In person,US,M
+2608,2024,Intermediate,FT,Research Scientist,359400,US,Fully remote,US,M
+2678,2024,Senior,FT,Research Engineer,333500,US,In person,US,M
+2715,2024,Senior,FT,Data Architect,363000,US,In person,US,M
+2795,2024,Intermediate,FT,ML Engineer,530000,US,In person,US,M
+2796,2024,Intermediate,FT,ML Engineer,440000,US,In person,US,M
+2803,2024,Junior,FT,Data Analyst,774000,MX,In person,MX,M
+2807,2024,Senior,FT,Data Engineer,313000,US,Fully remote,US,M
+2811,2024,Intermediate,FT,Analytics Engineer,720000,US,In person,US,M
+2813,2024,Senior,FT,Research Scientist,321000,US,Fully remote,US,M
+2831,2024,Senior,FT,Machine Learning Engineer,345400,US,In person,US,M
+2859,2024,Senior,FT,AI Engineer,385000,US,In person,US,M
+2860,2024,Senior,FT,AI Engineer,310000,US,In person,US,M
+2863,2024,Executive,FT,Data Science,300000,US,Fully remote,US,M
+2982,2024,Senior,FT,Research Engineer,300000,GB,In person,GB,M
+2990,2024,Intermediate,FT,AI Engineer,400000,US,In person,US,M
+3114,2024,Executive,FT,Data Engineer,314000,CA,Fully remote,CA,M
+3121,2024,Senior,FT,Research Engineer,310000,US,In person,US,M
+3274,2024,Intermediate,FT,Research Engineer,440000,US,In person,US,M
+3286,2024,Senior,FT,Analytics Engineer,720000,US,In person,US,M
+3302,2024,Senior,FT,Research Scientist,440000,US,In person,US,M
+3303,2024,Senior,FT,Research Scientist,360000,US,In person,US,M
+3316,2024,Executive,FT,Head of Machine Learning,448000,US,Fully remote,US,M
+3317,2024,Executive,FT,Head of Machine Learning,373000,US,Fully remote,US,M
+3342,2024,Senior,FT,Data Analytics Lead,398900,US,In person,US,M
+3344,2024,Executive,FT,Head of Machine Learning,438000,US,In person,US,M
+3350,2024,Senior,FT,Research Scientist,340000,US,Fully remote,US,M
+3352,2024,Senior,FT,Machine Learning Engineer,324000,US,In person,US,M
+3370,2024,Senior,FT,Machine Learning Engineer,345400,US,In person,US,M
+3372,2024,Senior,FT,Research Scientist,500000,US,Fully remote,US,M
+3374,2024,Senior,FT,Data Engineer,313000,US,Fully remote,US,M
+3378,2024,Senior,FT,Machine Learning Engineer,315000,US,Fully remote,US,M
+3382,2024,Senior,FT,Machine Learning Engineer,309000,US,In person,US,M
+3462,2024,Senior,FT,Research Scientist,484000,US,Fully remote,US,M
+3466,2024,Senior,FT,Data Scientist,720000,US,In person,US,M
+3482,2024,Senior,FT,Data Analytics Lead,342400,US,In person,US,M
+3488,2024,Senior,FT,Data Analytics Lead,398900,US,In person,US,M
+3512,2024,Intermediate,FT,Data Analyst,325000,US,In person,US,M
+3537,2024,Senior,FT,Data Scientist,310270,US,In person,US,M
+3594,2024,Senior,FT,Research Scientist,382320,US,In person,US,M
+3595,2024,Senior,FT,Research Scientist,302840,US,In person,US,M
+3602,2024,Senior,FT,Analytics Engineer,750000,US,In person,US,M
+3606,2024,Senior,FT,Data Scientist,314100,US,In person,US,M
+3682,2024,Executive,FT,Data Science,300000,US,Fully remote,US,M
+3686,2024,Senior,FT,Research Scientist,323300,US,In person,US,M
+3692,2024,Senior,FT,ML Engineer,300000,US,In person,US,M
+3766,2024,Senior,FT,Machine Learning Engineer,300000,US,Fully remote,US,M
+3778,2024,Intermediate,FT,Machine Learning Scientist,750000,US,In person,US,M
+3782,2024,Intermediate,FT,Research Engineer,360000,US,In person,US,M
+3806,2024,Senior,FT,Machine Learning Engineer,414000,US,In person,US,M
+3860,2024,Senior,FT,Machine Learning Engineer,307100,US,Fully remote,US,M
+4002,2024,Intermediate,FT,Research Engineer,440000,US,In person,US,M
+4006,2024,Senior,FT,Research Scientist,337300,US,In person,US,M
+4014,2024,Senior,FT,Machine Learning Engineer,386100,US,In person,US,M
+4098,2024,Senior,FT,Data Science,324000,US,Fully remote,US,M
+4189,2024,Senior,FT,Data Analyst,750000,US,In person,US,M
+4199,2024,Senior,FT,Machine Learning Engineer,304750,US,In person,US,M
+4215,2024,Senior,FT,Machine Learning Engineer,418000,US,Fully remote,US,M
+4235,2024,Senior,FT,Machine Learning Engineer,300000,US,In person,US,M
+4266,2024,Senior,FT,Analytics Engineer,329200,CA,Fully remote,CA,M
+4357,2024,Senior,FT,Machine Learning Engineer,331640,US,In person,US,M
+4377,2024,Executive,FT,Data Science,300000,US,Fully remote,US,M
+4408,2024,Intermediate,FT,Research Scientist,440000,US,In person,US,M
+4414,2024,Executive,FT,Data Science,326000,US,Fully remote,US,M
+4420,2024,Senior,FT,Machine Learning Engineer,324000,US,In person,US,M
+4446,2024,Senior,FT,Machine Learning Engineer,322000,US,Fully remote,US,M
+4448,2024,Senior,FT,Data Engineer,316900,US,In person,US,M
+4458,2024,Executive,FT,Data Science,381500,US,In person,US,M
+4507,2024,Senior,FT,Machine Learning Engineer,365100,US,In person,US,M
+4540,2024,Senior,FT,Machine Learning Engineer,300000,US,In person,US,M
+4564,2024,Senior,FT,Machine Learning Engineer,303400,US,Fully remote,US,M
+4578,2024,Senior,FT,Machine Learning Engineer,303400,US,In person,US,M
+4655,2024,Senior,FT,Machine Learning Engineer,322000,US,Fully remote,US,M
+4675,2024,Executive,FT,Data Science,323700,US,Fully remote,US,M
+4691,2024,Senior,FT,Machine Learning Engineer,418000,US,Fully remote,US,M
+4693,2024,Senior,FT,Research Engineer,440000,US,In person,US,M
+4728,2024,Senior,FT,Machine Learning Engineer,324000,US,In person,US,M
+4732,2024,Senior,FT,Data Engineer,385000,US,In person,US,M
+4734,2024,Intermediate,FT,Data Scientist,385000,US,In person,US,M
+4750,2024,Intermediate,FT,Research Engineer,440000,US,In person,US,M
+4760,2024,Intermediate,FT,Research Engineer,440000,US,In person,US,M
+4774,2024,Senior,FT,Research Engineer,450000,US,In person,US,M
+4786,2024,Senior,FT,Machine Learning Engineer,331640,US,In person,US,M
+4794,2024,Senior,FT,Research Scientist,440000,US,In person,US,M
+4818,2024,Senior,FT,Research Scientist,440000,US,In person,US,M
+4827,2024,Senior,FT,ML Engineer,357900,US,In person,US,M
+4835,2024,Senior,FT,Applied Scientist,414000,US,In person,US,M
+4845,2024,Senior,FT,Data Architect,381500,US,In person,US,M
+4875,2024,Senior,FT,ML Engineer,324000,US,In person,US,M
+4879,2024,Senior,FT,Machine Learning Engineer,303400,CA,Fully remote,CA,M
+4932,2024,Senior,FT,Machine Learning Engineer,303400,US,Fully remote,US,M
+4952,2024,Senior,FT,Research Scientist,440000,US,In person,US,M
+4964,2024,Intermediate,FT,Machine Learning Scientist,750000,US,In person,US,M
+4968,2024,Senior,FT,Research Engineer,440000,US,In person,US,M
+4994,2024,Intermediate,FT,Research Engineer,720000,US,In person,US,M
+5004,2024,Intermediate,FT,Research Scientist,720000,US,In person,US,M
+5008,2024,Intermediate,FT,Research Engineer,720000,US,In person,US,M
+5080,2024,Senior,FT,AI Architect,317000,US,In person,US,M
+5092,2024,Senior,FT,Machine Learning Engineer,300000,US,In person,US,M
+5096,2024,Senior,FT,Data Scientist,324000,US,In person,US,M
+5128,2024,Intermediate,FT,Data Engineer,308000,US,In person,US,M
+5134,2024,Senior,FT,Machine Learning Engineer,324000,US,In person,US,M
+5170,2024,Intermediate,FT,Data Scientist,310000,US,In person,US,M
+5283,2023,Senior,FT,Research Engineer,300000,US,In person,US,M
+5411,2023,Intermediate,FT,Data Scientist,310000,US,In person,US,M
+5504,2023,Senior,FT,Data Engineer,333500,US,In person,US,M
+5562,2023,Intermediate,FT,Machine Learning Scientist,750000,US,In person,US,M
+5568,2023,Intermediate,FT,Machine Learning Engineer,750000,US,In person,US,M
+5570,2023,Senior,FT,Computer Vision Engineer,351000,US,In person,US,M
+5588,2023,Senior,FT,Data Engineer,300000,US,Fully remote,US,M
+5616,2023,Senior,FT,Data Scientist,305600,US,In person,US,M
+5687,2023,Senior,FT,Machine Learning Engineer,319000,US,In person,US,M
+5801,2023,Senior,FT,Data Scientist,359170,US,In person,US,M
+5817,2023,Senior,FT,Machine Learning Engineer,331640,US,In person,US,M
+5821,2023,Junior,FT,Research Engineer,350000,US,In person,US,M
+5871,2023,Senior,FT,Analytics Engineer,700000,US,Fully remote,US,M
+6033,2023,Senior,FT,Machine Learning Engineer,300000,US,In person,US,M
+6041,2023,Senior,FT,Machine Learning Engineer,300000,US,In person,US,M
+6108,2023,Senior,FT,Machine Learning Engineer,370000,US,In person,US,M
+6124,2023,Executive,FT,Data Engineer,350000,US,Fully remote,US,M
+6222,2023,Executive,FT,Data Engineer,465000,US,In person,US,M
+6223,2023,Executive,FT,Data Engineer,385000,US,In person,US,M
+6281,2023,Senior,FT,Data Scientist,300000,US,In person,US,M
+6437,2023,Senior,FT,Deep Learning Engineer,303387,CA,Fully remote,CA,M
+6490,2023,Senior,FT,Machine Learning Engineer,306400,CA,In person,CA,M
+6498,2023,Intermediate,FT,Analytics Engineer,700000,US,Fully remote,US,M
+6528,2023,Senior,FT,Machine Learning Engineer,319000,US,Fully remote,US,M
+6546,2023,Intermediate,FT,Data Engineer,750000,US,In person,US,M
+6604,2023,Senior,FT,Machine Learning Engineer,305600,US,In person,US,M
+6654,2023,Senior,FT,Data Scientist,750000,US,In person,US,M
+6682,2023,Senior,FT,ML Engineer,331640,US,In person,US,M
+6782,2023,Senior,FT,ML Engineer,336300,US,In person,US,M
+6804,2023,Senior,FT,Research Scientist,323300,US,In person,US,M
+6836,2023,Senior,FT,Machine Learning Engineer,300000,US,In person,US,M
+6856,2023,Senior,FT,Machine Learning Engineer,324000,US,In person,US,M
+6904,2023,Senior,FT,Data Engineer,300000,US,Fully remote,US,M
+6926,2023,Intermediate,FT,Machine Learning Engineer,300000,US,In person,US,M
+6951,2023,Senior,FT,Data Engineer,300000,US,In person,US,M
+6957,2023,Senior,FT,Machine Learning Engineer,305600,US,In person,US,M
+7077,2023,Senior,FT,Research Scientist,370000,US,In person,US,M
+7117,2023,Senior,FT,Research Engineer,308000,US,In person,US,M
+7151,2023,Senior,FT,Machine Learning Engineer,333500,US,In person,US,M
+7155,2023,Senior,FT,Data Architect,354200,US,Fully remote,US,M
+7177,2023,Senior,FT,Data Scientist,305600,US,In person,US,M
+7221,2023,Senior,FT,Research Scientist,303050,US,In person,US,M
+7234,2023,Senior,FT,Machine Learning Engineer,328400,US,Fully remote,US,M
+7262,2023,Senior,FT,Data Scientist,329700,US,In person,US,M
+7296,2023,Senior,FT,Data Architect,310000,US,Fully remote,US,M
+7298,2023,Senior,FT,AI Engineer,372000,US,In person,US,M
+7312,2023,Senior,FT,Data Engineer,300000,US,In person,US,M
+7316,2023,Senior,FT,AI Architect,305100,US,Fully remote,US,M
+7346,2023,Senior,FT,Data Engineer,304750,US,In person,US,M
+7352,2023,Senior,FT,Data Scientist,307100,US,In person,US,M
+7490,2023,Senior,FT,Machine Learning Engineer,324000,US,In person,US,M
+7496,2023,Senior,FT,Research Engineer,370000,US,In person,US,M
+7520,2023,Senior,FT,Machine Learning Engineer,309000,US,In person,US,M
+7563,2023,Intermediate,FT,Research Engineer,300000,US,In person,US,M
+7565,2023,Intermediate,FT,Research Engineer,300000,US,In person,US,M
+7581,2023,Senior,FT,ML Engineer,324000,US,In person,US,M
+7670,2023,Senior,FT,Data Scientist,308000,US,In person,US,M
+7694,2023,Senior,FT,Machine Learning Engineer,331640,US,In person,US,M
+7724,2023,Senior,FT,Machine Learning Scientist,300000,US,In person,US,M
+7771,2023,Intermediate,FT,Analytics Engineer,369120,GB,In person,GB,M
+7807,2023,Senior,FT,Data Scientist,316000,US,In person,US,M
+7964,2023,Intermediate,FT,Research Scientist,405000,US,In person,US,L
+7986,2023,Executive,FT,Director of Data Science,353200,US,In person,US,M
+8005,2023,Intermediate,FT,Research Scientist,300000,US,In person,US,M
+8011,2023,Senior,FT,Data Scientist,300000,US,In person,US,M
+8126,2023,Senior,FT,AI Engineer,350000,US,In person,US,M
+8130,2023,Senior,FT,Data Engineer,385000,US,In person,US,M
+8140,2023,Senior,FT,Data Scientist,308000,US,In person,US,M
+8144,2023,Senior,FT,Data Engineer,300000,US,In person,US,M
+8158,2023,Senior,FT,Research Scientist,300000,US,In person,US,M
+8160,2023,Senior,FT,ML Engineer,300000,US,In person,US,M
+8168,2023,Senior,FT,Research Engineer,308000,US,In person,US,M
+8174,2023,Senior,FT,Research Engineer,385000,US,In person,US,M
+8175,2023,Senior,FT,Research Engineer,310000,US,In person,US,M
+8180,2023,Senior,FT,Data Engineer,385000,US,In person,US,M
+8181,2023,Senior,FT,Data Engineer,310000,US,In person,US,M
+8200,2023,Intermediate,FT,AI Engineer,369120,GB,In person,GB,M
+8206,2023,Senior,FT,Data Architect,306000,US,Fully remote,US,M
+8214,2023,Intermediate,FT,Data Analyst,369120,GB,In person,GB,M
+8228,2023,Senior,FT,AI Engineer,360000,US,In person,US,M
+8359,2023,Senior,FT,Machine Learning Engineer,330000,US,Fully remote,US,M
+8404,2023,Intermediate,FT,Machine Learning Engineer,300000,US,In person,US,M
+8426,2023,Senior,FT,Research Engineer,306000,US,In person,US,M
+8440,2023,Senior,FT,Data Architect,306000,US,Fully remote,US,M
+8456,2023,Senior,FT,Data Scientist,324000,US,In person,US,M
+8479,2023,Senior,FT,Machine Learning Engineer,370000,US,In person,US,M
+8630,2023,Senior,FT,Data Infrastructure Engineer,300105,US,In person,US,M
+8662,2023,Senior,FT,Data Scientist,316000,US,In person,US,M
+8665,2023,Executive,FT,Head of Machine Learning,330000,US,In person,US,M
+8689,2023,Executive,FT,Head of Data,329500,US,Fully remote,US,M
+8739,2023,Senior,FT,Machine Learning Engineer,340000,US,In person,US,M
+8745,2023,Senior,FT,Machine Learning Engineer,309000,US,In person,US,M
+8751,2023,Senior,FT,Research Scientist,303050,US,In person,US,M
+8759,2023,Senior,FT,Research Scientist,303050,US,In person,US,M
+8761,2023,Senior,FT,Data Infrastructure Engineer,385000,US,In person,US,M
+8776,2023,Senior,FT,Machine Learning Engineer,330000,US,In person,US,M
+8786,2023,Senior,FT,Machine Learning Engineer,328133,US,In person,US,M
+8808,2023,Senior,FT,Machine Learning Engineer,309000,US,In person,US,M
+8891,2023,Executive,FT,Director of Data Science,375500,US,Fully remote,US,M
+8932,2023,Senior,FT,Applied Scientist,309400,US,In person,US,L
+8979,2023,Senior,FT,ML Engineer,385000,US,Fully remote,US,M
+9018,2023,Senior,FT,Machine Learning Engineer,330000,US,In person,US,M
+9044,2023,Executive,FT,Head of Data,329500,US,Fully remote,US,M
+9056,2023,Senior,FT,Machine Learning Engineer,323300,US,In person,US,M
+9107,2023,Senior,FT,Machine Learning Engineer,324000,US,In person,US,M
+9111,2023,Senior,FT,Machine Learning Engineer,309000,US,In person,US,M
+9142,2023,Intermediate,FT,Machine Learning Engineer,300000,US,In person,US,M
+9194,2023,Senior,FT,Data Engineer,304200,US,In person,US,M
+9210,2023,Senior,FT,Data Engineer,370000,US,In person,US,M
+9216,2023,Senior,FT,Data Scientist,359170,US,In person,US,M
+9235,2023,Senior,FT,Data Scientist,359170,US,In person,US,M
+9247,2023,Senior,FT,Machine Learning Engineer,323300,US,In person,US,M
+9298,2023,Intermediate,FT,AI Engineer,300000,QA,Fully remote,QA,M
+9322,2023,Senior,FT,Data Scientist,300000,US,In person,US,M
+9352,2023,Senior,FT,Data Scientist,370000,US,In person,US,M
+9353,2023,Senior,FT,Data Scientist,300000,US,In person,US,M
+9428,2023,Senior,FT,AI Architect,330000,US,In person,US,M
+9444,2023,Senior,FT,Machine Learning Scientist,325000,US,Fully remote,US,M
+9552,2023,Senior,FT,Machine Learning Engineer,331640,US,In person,US,M
+9568,2023,Senior,FT,Data Scientist,323300,US,In person,US,M
+9612,2023,Senior,FT,Data Scientist,310270,US,In person,US,M
+9632,2023,Senior,FT,Data Lead,350000,US,In person,US,M
+9650,2023,Senior,FT,Data Engineer,300000,US,In person,US,M
+9769,2023,Senior,FT,Machine Learning Engineer,315300,US,Fully remote,US,M
+9824,2023,Senior,FT,Data Scientist,359170,US,In person,US,M
+9825,2023,Senior,FT,Data Scientist,310270,US,In person,US,M
+9979,2023,Senior,FT,Data Scientist,323300,US,In person,US,M
+10019,2023,Senior,FT,Machine Learning Engineer,309000,US,In person,US,M
+10027,2023,Senior,FT,Machine Learning Engineer,323300,US,In person,US,M
+10137,2023,Senior,FT,ML Engineer,305000,US,In person,US,M
+10242,2023,Senior,FT,AI Architect,330000,US,In person,US,M
+10250,2023,Senior,FT,Machine Learning Engineer,324000,US,In person,US,M
+10304,2023,Senior,FT,Machine Learning Engineer,300000,US,In person,US,M
+10375,2023,Senior,FT,ML Engineer,383910,US,In person,US,M
+10376,2023,Senior,FT,ML Engineer,315850,US,In person,US,M
+10428,2023,Senior,FT,Data Scientist,323300,US,In person,US,M
+10542,2023,Senior,FT,Machine Learning Engineer,392000,US,In person,US,M
+10582,2023,Senior,FT,AI Architect,330000,US,In person,US,M
+10586,2023,Senior,FT,Data Scientist,359170,US,In person,US,M
+10587,2023,Senior,FT,Data Scientist,310270,US,In person,US,M
+10588,2023,Senior,FT,Data Scientist,359170,US,In person,US,M
+10594,2023,Senior,FT,Deep Learning Engineer,331640,US,In person,US,M
+10600,2023,Senior,FT,Machine Learning Engineer,331640,US,In person,US,M
+10604,2023,Senior,FT,Data Engineer,331640,US,In person,US,M
+10614,2023,Senior,FT,Machine Learning Engineer,331640,US,In person,US,M
+10620,2023,Senior,FT,Data Scientist,323300,US,In person,US,M
+10626,2023,Senior,FT,Data Scientist,359170,US,In person,US,M
+10628,2023,Senior,FT,Data Scientist,316000,US,In person,US,M
+10641,2023,Senior,FT,ML Engineer,365630,US,In person,US,M
+10642,2023,Senior,FT,ML Engineer,315850,US,In person,US,M
+10674,2023,Senior,FT,Applied Scientist,309400,US,In person,US,L
+10688,2023,Senior,FT,Machine Learning Engineer,331640,US,In person,US,M
+10702,2023,Intermediate,FT,Machine Learning Engineer,300000,GB,In person,GB,M
+10706,2023,Senior,FT,Research Scientist,323300,US,In person,US,M
+10780,2023,Senior,FT,AI Architect,330000,US,In person,US,M
+10819,2023,Senior,FT,Data Scientist,310270,US,In person,US,M
+10835,2023,Senior,FT,Data Engineer,331640,US,In person,US,M
+10837,2023,Senior,FT,Deep Learning Engineer,331640,US,In person,US,M
+10841,2023,Senior,FT,Data Scientist,359170,US,In person,US,M
+10842,2023,Senior,FT,Data Scientist,310270,US,In person,US,M
+10843,2023,Senior,FT,Machine Learning Engineer,331640,US,In person,US,M
+10845,2023,Senior,FT,Data Scientist,359170,US,In person,US,M
+10849,2023,Executive,FT,Head of Data Science,330000,US,In person,US,M
+10853,2023,Senior,FT,Applied Scientist,309400,US,In person,US,L
+10855,2023,Senior,FT,Machine Learning Engineer,331640,US,In person,US,M
+10865,2023,Senior,FT,Data Scientist,359170,US,In person,US,M
+10899,2020,Executive,FT,Managing Director Data Science,300000,US,Fully remote,US,L
+10906,2023,Senior,FT,Research Engineer,370000,US,In person,US,M
+10916,2023,Senior,FT,Research Scientist,345000,US,In person,US,M
+10963,2023,Senior,FT,Research Scientist,370000,US,In person,US,M
+11009,2023,Senior,FT,Applied Scientist,309400,US,In person,US,L
+11013,2023,Senior,FT,Research Scientist,374000,US,In person,US,M
+11047,2023,Senior,FT,Research Engineer,370000,US,In person,US,M
+11055,2023,Senior,FT,Machine Learning Software Engineer,302000,US,In person,US,M
+11134,2023,Senior,FT,Machine Learning Engineer,331640,US,In person,US,M
+11153,2023,Senior,FT,Applied Scientist,309400,US,In person,US,L
+11214,2023,Senior,FT,Analytics Engineering Manager,399880,GB,Hybrid,GB,L
+11243,2023,Senior,FT,Data Architect,306000,US,Fully remote,US,M
+11273,2023,Senior,FT,Data Engineer,305000,US,Fully remote,US,M
+11359,2023,Senior,FT,Machine Learning Engineer,317070,US,In person,US,M
+11371,2023,Executive,FT,Data Engineer,333500,US,In person,US,M
+11410,2023,Senior,FT,Machine Learning Engineer,311000,US,In person,US,M
+11440,2023,Senior,FT,Data Architect,306000,US,Fully remote,US,M
+11538,2023,Executive,FT,Head of Data,329500,US,In person,US,M
+11586,2023,Senior,FT,Data Science Manager,328000,US,In person,US,M
+11622,2023,Intermediate,FT,ML Engineer,300000,AU,In person,AU,M
+11815,2023,Executive,FT,Director of Data Science,336400,US,In person,US,M
+11859,2023,Senior,FT,Research Engineer,370000,US,In person,US,M
+11863,2023,Senior,FT,Research Scientist,370000,US,In person,US,M
+11984,2023,Intermediate,FT,Analytics Engineer,430640,GB,In person,GB,M
+12019,2023,Senior,FT,Computer Vision Engineer,342810,US,In person,US,M
+12053,2023,Senior,FT,Applied Scientist,309400,US,In person,US,L
+12117,2023,Senior,FT,Machine Learning Engineer,342300,US,In person,US,L
+12129,2023,Senior,FT,Machine Learning Engineer,318300,US,Fully remote,US,M
+12147,2023,Senior,FT,Applied Scientist,309400,US,In person,US,L
+12174,2023,Intermediate,FT,Machine Learning Engineer,300000,US,In person,US,M
+12212,2023,Executive,FT,Head of Data,329500,US,In person,US,M
+12342,2023,Senior,FT,Machine Learning Engineer,304000,US,Fully remote,US,M
+12462,2023,Executive,FT,Director of Data Science,353200,US,In person,US,M
+12472,2023,Senior,FT,Data Scientist,317070,US,In person,US,M
+12512,2023,Senior,FT,AI Scientist,417937,IL,In person,IL,L
+12632,2023,Senior,FT,Data Architect,376080,US,Fully remote,US,M
+12828,2023,Intermediate,FT,Research Scientist,340000,US,Fully remote,US,M
+12843,2023,Executive,FT,Data Engineer,310000,US,Fully remote,US,M
+12989,2023,Executive,FT,Data Engineer,310000,US,Fully remote,US,M
+13079,2023,Senior,FT,Data Scientist,300240,US,In person,US,M
+13081,2023,Senior,FT,Data Scientist,300240,US,In person,US,M
+13087,2023,Senior,FT,Data Scientist,370000,US,In person,US,M
+13098,2023,Senior,FT,Machine Learning Engineer,323300,US,In person,US,M
+13135,2023,Executive,FT,Data Engineer,310000,US,Fully remote,US,M
+13238,2022,Senior,FT,Machine Learning Software Engineer,375000,US,Fully remote,US,M
+13266,2023,Senior,FT,Machine Learning Engineer,318300,US,Fully remote,US,M
+13268,2023,Senior,FT,Data Analyst,385000,US,In person,US,M
+13291,2023,Senior,FT,Research Scientist,370000,US,In person,US,M
+13375,2023,Executive,FT,Head of Data Science,314100,US,In person,US,M
+13400,2023,Senior,FT,Applied Scientist,350000,US,In person,US,L
+13406,2023,Executive,FT,Data Engineer,310000,US,Fully remote,US,M
+13437,2023,Senior,FT,Data Engineer,300000,US,In person,US,M
+13569,2023,Senior,FT,Data Engineer,300000,US,In person,US,M
+13581,2023,Executive,FT,Data Scientist,300000,US,In person,US,M
+13698,2023,Senior,FT,Data Engineer,310000,US,In person,US,M
+13905,2022,Executive,FT,Data Engineer,310000,US,Fully remote,US,M
+13984,2022,Intermediate,FT,Data Analyst,430967,GB,In person,GB,M
+14131,2022,Senior,FT,Data Engineer,300000,US,In person,US,M
+14247,2022,Executive,FT,Data Engineer,310000,US,Fully remote,US,M
+14299,2022,Senior,FT,Research Scientist,300000,US,Fully remote,US,M
+14327,2022,Senior,FT,Data Science Tech Lead,375000,US,Hybrid,US,L
+14342,2022,Senior,FT,Data Scientist,350000,US,Fully remote,US,M
+14373,2022,Senior,FT,Data Engineer,315000,US,Fully remote,US,M
+14468,2022,Senior,FT,Data Engineer,300000,US,In person,US,M
+14521,2022,Senior,FT,Data Architect,345600,US,In person,US,M
+14634,2022,Senior,FT,Data Engineer,300000,US,In person,US,M
+14816,2022,Senior,FT,Data Engineer,300000,US,In person,US,M
+15105,2022,Senior,FT,Data Science Manager,300000,US,Fully remote,US,M
+15363,2022,Executive,FT,Data Engineer,324000,US,Fully remote,US,M
+15415,2022,Senior,FT,Data Analytics Lead,405000,US,Fully remote,US,L
+15420,2022,Senior,FT,Applied Data Scientist,380000,US,Fully remote,US,L
+15472,2020,Intermediate,FT,Research Scientist,450000,US,In person,US,M
+15636,2020,Executive,FT,Director of Data Science,325000,US,Fully remote,US,L
+15685,2020,Senior,FT,Data Scientist,412000,US,Fully remote,US,L
